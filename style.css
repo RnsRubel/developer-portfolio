@@ -36,7 +36,7 @@ h1{
    
 }
 p{
-  color:brown;
+  color:#8A2BE2;
  
 }
 .btn2{
@@ -46,3 +46,33 @@ p{
     text-decoration: none;
     border-radius: 5px;
 }
+.experence-div{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 10px;
+   
+   
+}
+.experence-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 100px;
+}
+#full-web-div{
+    border-image: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+#baby-web-div{
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+footer p{
+    text-align: center;
+    color:darkred;
+}
+
